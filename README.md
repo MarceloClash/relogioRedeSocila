@@ -1,28 +1,35 @@
-# ✨ CLOCK/DATE/MUSIC & REDESOCIAL ✨
+# ✨ Relógio Digital com Data - Projeto Pessoal ✨
 
 ![Imgur](https://github.com/MarceloClash/relogioRedeSocila/blob/main/src/clock1.png?raw=true) 
 
 
-Projeto final, apliquei elementos ao projeto.
+🕰️ Descrição: Criei um relógio digital com exibição da data atual. O projeto utiliza JavaScript para atualizar a hora e a data em tempo real.
 
-Foi estudado seletores avançados CSS, pseudo-classes, pseudo-elementos, funções e eventos no JavaScript.
+🚀 Funcionalidades:
 
-### Detalhes que implementei:
-
-✩ Title e favicon adicionados; <br>
-✩ Música com autoplay e loop; <br>
-✩ Wallpaper modificado. <br>
-✩ Background nature/random. <br>
+✩ Exibe a hora atual no formato HH:MM:SS.<br>
+✩ Mostra a data completa no padrão “dia da semana, dia de mês de ano” (por exemplo, “terça-feira, 27 de fevereiro de 2024”).
+✩ Atualiza automaticamente a cada segundo.
 ✩ Botões Rede social React. <br>
-✩ Atualiza a pagina que muda a imagem. <br>
+
+🌐 Tecnologias Utilizadas:
+
+✩ HTML: Estrutura básica da página. <br>
+✩ CSS: Estilização do layout. <br>
+✩ JavaScript: Lógica para obter a hora e a data atual. <br>
+📷 Imagem de Fundo: A página possui uma imagem de fundo aleatória da natureza, obtida do Unsplash. <br>
+
+🔗 Links Sociais:
+
+LinkedIn:https://www.linkedin.com/in/marceloluizdeoliveira/
+GitHub:https://github.com/MarceloClash 
 
 
 
 
 
 
-
-
+👉 Acesse o projeto ao vivo: Relógio Digital com Data
 ### 🌌 [Deploy](https://relogiosocil.netlify.app/) 🌌
 ### 🌌 [Deploy](https://marceloclash.github.io/relogioRedeSocila/) 🌌
 
