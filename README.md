@@ -24,6 +24,7 @@ Foi estudado seletores avançados CSS, pseudo-classes, pseudo-elementos, funçõ
 
 
 ### 🌌 [Deploy](https://relogiosocil.netlify.app/) 🌌
+### 🌌 [Deploy](https://marceloclash.github.io/relogioRedeSocila/) 🌌
 
 Caso a música não toque, é preciso permitir o som no seu navegador acessando _configurações_.
 
